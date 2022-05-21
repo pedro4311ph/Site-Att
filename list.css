@@ -1,9 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 * {
     /* padding: 0;
     margin: 0; */
     text-decoration: none;
     box-sizing: border-box;
-    font-family: 'montserrat';
+    font-family: 'Work Sans', sans-serif;
 }
 
 .navbar ul {
