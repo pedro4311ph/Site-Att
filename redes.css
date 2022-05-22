@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+* {
+    /* padding: 0;
+    margin: 0; */
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #49156e;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.search {
+    background-color: #fcfafa;
+    border-radius: 40px;
+    border: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.logo {
+    margin-top: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: #4b0081;
+}
+
+.forms {
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #e5e5e5;
+}
+
+.footer {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.instagram {
+    display: block;
+    width: 120px;
+    height: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+}
+
+h2 {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.insta {
+    display: block;
+    background-color: #e5e5e5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    height: 200px;
+    justify-content: center;
+    border-radius: 30px;
+}
