@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 * {
     /* padding: 0;
     margin: 0; */
     text-decoration: none;
     box-sizing: border-box;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'montserrat';
 }
 
 .navbar ul {
@@ -59,7 +58,7 @@
 }
 
 .list {
-    display: inline-block;
+    display: block;
     background-color: #e5e5e5;
     margin-left: auto;
     margin-right: auto;
@@ -70,14 +69,11 @@
 }
 
 h2 {
+    padding-top: 20px;
     margin-top: 30px;
     width: 200px;
     height: 40px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-}
-
-ol.item {
-    list-style-type: upper-roman;
 }
