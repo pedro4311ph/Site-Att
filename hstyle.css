@@ -1,0 +1,26 @@
+.titulo {
+  text-align: center;
+  width: auto;
+  height: auto;
+  background-color: #13293d;
+  padding: 9em;
+  font-size: 2em;
+  border-radius: 2em;
+  padding-top: 7em;
+  color: #e8f1f2;
+}
+
+.titulo h1 {
+  color: #e8f1f2;
+}
+
+.botao {
+  color: white;
+  background-color: #006494;
+  border-radius: 1em;
+  padding: 0.4em;
+}
+
+.botao:hover {
+  background-color: #247ba0;
+}
