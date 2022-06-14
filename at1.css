@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #49156e;
+      background-color: #006494;
     
     border-radius: 20px;
     justify-content: center;
@@ -45,9 +45,8 @@ li a {
 }
 
 li a:hover {
-    background-color: #4b0081;
+  background-color: #247ba0;
 }
-
 h1 {
     color: rgba(8, 8, 8);
     text-align: center;
