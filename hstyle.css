@@ -1,12 +1,14 @@
 .titulo {
   text-align: center;
-  width: auto;
-  height: auto;
   background-color: #13293d;
   padding: 9em;
   border-radius: 2em;
-  padding-top: 7em;
   color: #e8f1f2;
+  margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  font-size: 0.8em;
 }
 
 .titulo h1 {
